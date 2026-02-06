@@ -42,7 +42,7 @@ as well as supporting datasets that reflect **economic** and **demographic indic
 
 ---
 
-### 🔹 Main Dataset
+###  Main Dataset
 
 - **Source**: *Kaggle / Local Open Data Portals / Real Estate Websites*  
 - https://www.kaggle.com/datasets/azamatkibekbaev/bishkek-house-price
@@ -113,7 +113,7 @@ which is essential for analyzing trends in the real estate market and for buildi
 
 ---
 
-### 🧪 Hypothesis Testing
+###  Hypothesis Testing
 - **Building Type 1 vs 2**  
   → There is a statistically **significant difference** in prices based on building type (**p < 0.001**).
 
